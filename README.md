@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/brandjs" target="blank"><img src="https://img.shields.io/twitter/follow/brandjs?logo=twitter&style=for-the-badge" alt="brandjs" /></a> </p>
 
-- 🔭 Already worked with **HTML/CSS/JS, React, Tailwind, Pyhton, Java**
+- 🔭 Already worked with **HTML/CSS/JS, React, Tailwind, Python, Java**
 
 - 🌱 I’m currently learning **MERN Stack, especially Backend**
 
