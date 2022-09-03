@@ -7,7 +7,7 @@
 
 - 🔭 Already worked with **HTML/CSS/JS, React, Tailwind, Python, Java**
 
-- 🌱 I’m currently learning **MERN Stack, especially Backend**
+- 🌱 I’m currently learning **Python (Automation)**
 
 - 📫 How to reach me **brandon93.w@googlemail.com**
 
