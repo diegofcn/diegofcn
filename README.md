@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegofcn&exclude_repo=Java-Programming-1-Mooc-fi-,Java-Programming-2-Mooc-fi&langs_count=8&show_icons=true&locale=en" alt="diegofcn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegofcn&show_icons=true&locale=en" alt="diegofcn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegofcn&show_icons=true&locale=en&theme=tokionight" alt="diegofcn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegofcn&" alt="diegofcn" /></p>
