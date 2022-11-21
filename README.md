@@ -7,7 +7,7 @@
 
 - 🔭 Already worked with **HTML/CSS/JS, React, Tailwind, Python, Java**
 
-- 🌱 I’m currently learning **Python Frameworks**
+- 🌱 I’m currently learning **React, Python Frameworks**
 
 - 📫 How to reach me **brandon93.w@googlemail.com**
 
