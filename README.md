@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **brandon93.w@googlemail.com**
 
-- ⚡ Fun fact **I love F1**
+- ⚡ Fun fact **I love NFL/NBA/F1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
