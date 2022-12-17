@@ -7,7 +7,7 @@
 
 - 🔭 Already worked with **HTML/CSS/JS, React, Tailwind, Python, Flask, Java**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science - ML - NN**
 
 - 📫 How to reach me **brandon93.w@googlemail.com**
 
