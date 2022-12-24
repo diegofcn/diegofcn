@@ -3,14 +3,13 @@
 <h3 align="center">math graduate, passionate software developer and data enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
 
-     
-- 🔭 Already worked with **HTML/CSS/JS, React, Tailwind, Python, Flask, Java**
+ 🔭 Already worked with **HTML/CSS/JS, React, Tailwind, Python, Flask, Java**
 
-- 🌱 I’m currently learning **Data Science & Back End Technologies**
+ 🌱 I’m currently learning **Data Science & Back End Technologies**
 
-- 📫 How to reach me **brandon93.w@googlemail.com**
+ 📫 How to reach me **brandon93.w@googlemail.com**
 
-- ⚡ Fun fact **I love NFL/NBA/F1**
+ ⚡ Fun fact **I love NFL/NBA/F1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
