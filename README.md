@@ -5,7 +5,7 @@
 
  🔭 Already worked with **HTML/CSS/JS, React, Tailwind, Python, Flask, Java, Spring Boot, SQL**
 
- 🌱 I’m currently learning **Full Stack Technologies**
+ 🌱 I’m currently learning **Data Science, Angular**
 
  📫 How to reach me **brandon93.w@googlemail.com**
 
