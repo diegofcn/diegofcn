@@ -1,25 +1,113 @@
 
 <h1 align="center">Hi, I'm Brandon 👋 </h1>
-<h3 align="center">math graduate, Full Stack Software Developer and data enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+<h3 align="center">Full Stack Software Developer and devOps & cyber security enthusiast</h3>
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
- 🔭 Already worked with **HTML/CSS/JS, React, NextJS, Tailwind, Python, Flask, Java, Spring Boot, SQL**
+## About Me:
 
- 🌱 I’m currently learning **NextJS, Backend Technologies**
+- Full Stack Developer, coming from a mathematical background
+- I am currently learning Kubernetes, AWS, Schwedish and cyber security
+- I enjoy watching NFL, F1
+- I enjoy cooking
+- I collect vinyls
+- I like sharing new skills or learnings on medium
+  
 
- 📫 How to reach me **brandon93.w@googlemail.com**
+ ## Tech Stack:
 
- ⚡ Fun fact **I love NFL/NBA/F1**
+ <table><tr><td valign="top" width="25%">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/brandjs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brandjs" height="30" width="40" /></a>
-</p>
+### Frontend  
+<a href="https://github.com/diegofcn">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,bootstrap,tailwind,html,css&perline=3" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br>
+ <img width="50" src="https://www.svgrepo.com/show/330803/konva.svg"/>
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Backend
+<a href="https://github.com/diegofcn">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=java,spring,express,gradle,maven&perline=3" />
+ <br>
+ <img width="50" src="https://objectcomputing.com/files/2616/2275/4406/micronaut_stacked_black.svg" />
+</div>
+</a>
+
+</td>
+<td valign="top" width="25%">
+
+### Databases & DevOps
+<a href="https://github.com/diegofcn">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=mongodb,jenkins,docker&perline=4" />
+ <br>
+ <img width="50" src="https://janusgraph.org/img/janusgraph.png" />
+</div>
+</a>
+
+</td>
+</tr>
+<tr>
+<td valign="top" >
+
+### Tools
+<a href="https://github.com/diegofcn">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=obsidian,notion,bitbucket,github,git,postman&perline=3" /> 
+ <br>
+      	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
+      	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+      	<img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/>
+
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+
+### Currently Learning
+<a href="https://github.com/diegofcn">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=aws,kubernetes&perline=4" />
+</div>
+</a>
+
+</td>
+</tr></table>
+
+## Publications
+
+You can find my publications on Medium, where I share my latest learnings in tech :)
+<br>
+Ceck out my latest article:
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brandon93.w/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@brandon93.w/0" alt="Medium Article">
+</a>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegofcn&show_icons=true&locale=en&theme=tokyonight" alt="diegofcn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegofcn&" alt="diegofcn" /></p>
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/brandon-wohlwend/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://medium.com/@brandon93w">
+        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+    </a>
+</div>
+
