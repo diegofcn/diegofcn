@@ -103,7 +103,7 @@ Ceck out my latest article:
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/brandon-wohlwend/">
+    <a href="https://www.linkedin.com/in/brandonwohlwend/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="https://medium.com/@brandon93w">
